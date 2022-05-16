@@ -13,9 +13,49 @@
                         "correctAns": "ans1"
                     },
                     {
-                        "type": "binary",
+                        "type": "multiple",
                         "question": "שאלה",
-                        "correctAns": true
+                        "ans1": "תשובה",
+                        "ans2": "תשובה",
+                        "ans3": "תשובה",
+                        "ans4": "תשובה",
+                        "correctAns": "ans1"
+                    },
+                    {
+                        "type": "multiple",
+                        "question": "שאלה",
+                        "ans1": "תשובה",
+                        "ans2": "תשובה",
+                        "ans3": "תשובה",
+                        "ans4": "תשובה",
+                        "correctAns": "ans1"
+                    },
+                    {
+                        "type": "multiple",
+                        "question": "שאלה",
+                        "ans1": "תשובה",
+                        "ans2": "תשובה",
+                        "ans3": "תשובה",
+                        "ans4": "תשובה",
+                        "correctAns": "ans1"
+                    },
+                    {
+                        "type": "multiple",
+                        "question": "שאלה",
+                        "ans1": "תשובה",
+                        "ans2": "תשובה",
+                        "ans3": "תשובה",
+                        "ans4": "תשובה",
+                        "correctAns": "ans1"
+                    },
+                    {
+                        "type": "multiple",
+                        "question": "שאלה",
+                        "ans1": "תשובה",
+                        "ans2": "תשובה",
+                        "ans3": "תשובה",
+                        "ans4": "תשובה",
+                        "correctAns": "ans1"
                     }
                 ]
             }
